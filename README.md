@@ -16,4 +16,5 @@ This is an end-to-end machine learning project that predicts customer churn base
 - Google Colab
 
 ## Live Demo
-(You can paste your ngrok link here, but be aware it's temporary!)
+You can try the live application here: 
+https://customer-churn-prediction-ezykothkdumkwmsqfbwd5e.streamlit.app/
